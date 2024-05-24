@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/bryan_wsl/projects/hash_table_project/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/HashTableProject.dir/src/main.cpp.o -c /home/bryan_wsl/projects/hash_table_project/src/main.cpp",
+  "file": "/home/bryan_wsl/projects/hash_table_project/src/main.cpp"
+},
+{
+  "directory": "/home/bryan_wsl/projects/hash_table_project/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/HashTableProject.dir/src/hashtable.cpp.o -c /home/bryan_wsl/projects/hash_table_project/src/hashtable.cpp",
+  "file": "/home/bryan_wsl/projects/hash_table_project/src/hashtable.cpp"
+}
+]
